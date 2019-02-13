@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MyRect
+comment1.params=
+comment1.target=MyRect()
+comment2.params=x1\ y1\ x2\ y2\ paint\ stroke\ filled
+comment2.target=MyRect(int,\ int,\ int,\ int,\ java.awt.Paint,\ java.awt.Stroke,\ boolean)
+comment3.params=g2d
+comment3.target=void\ draw(java.awt.Graphics2D)
+numComments=4

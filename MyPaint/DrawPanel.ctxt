@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=DrawPanel
+comment1.params=status
+comment1.target=DrawPanel(javax.swing.JLabel)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=shapeType
+comment3.target=void\ setShapeType(int)
+comment4.params=paint
+comment4.target=void\ setDrawingPaint(java.awt.Paint)
+comment5.params=stroke
+comment5.target=void\ setDrawingStroke(java.awt.Stroke)
+comment6.params=
+comment6.target=void\ clearLastShape()
+comment7.params=
+comment7.target=void\ clearDrawing()
+comment8.params=isFilled
+comment8.target=void\ setFilledShape(boolean)
+numComments=9

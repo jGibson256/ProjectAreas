@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MyBoundedShape
+comment1.params=
+comment1.target=MyBoundedShape()
+comment2.params=x1\ y1\ x2\ y2\ paint\ stroke\ filled
+comment2.target=MyBoundedShape(int,\ int,\ int,\ int,\ java.awt.Paint,\ java.awt.Stroke,\ boolean)
+comment3.params=
+comment3.target=int\ getUpperLeftX()
+comment4.params=
+comment4.target=int\ getUpperLeftY()
+comment5.params=
+comment5.target=int\ getWidth()
+comment6.params=
+comment6.target=int\ getHeight()
+comment7.params=
+comment7.target=boolean\ isFilled()
+comment8.params=isFilled
+comment8.target=void\ setFilled(boolean)
+numComments=9
