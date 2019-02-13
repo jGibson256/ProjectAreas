@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=TextToMorseCode
+comment1.params=phrase
+comment1.target=java.lang.String\ getMorseCode(java.lang.String)
+numComments=2
